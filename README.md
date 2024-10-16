@@ -11,6 +11,8 @@ warp  - shaders, rendering and intro code
 Thanks to Erwin Orb for mastering and feedback.
 (https://www.youtube.com/@erwinorb)
 
+Please refer to the contained infofile (bypass-luminosity.txt) for more information.
+
 ## Run info
 
 You will need a WebGPU-capable browser, like Chromium/Chrome or Edge, that supports indirect compute dispatches (Firefox currently does not). Please use the `--allow-file-access-from-files` option for Chrome or start a local webserver (`python3 -m http.server`) in the intro directory to run. Linux users might try their luck with `google-chrome-stable --enable-unsafe-webgpu --enable-features=Vulkan`.
