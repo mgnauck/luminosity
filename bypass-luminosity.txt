@@ -1,0 +1,85 @@
+         _______              __________             ______  
+       \(      //           _(         //_______   _(     //    _____ 
+     ___\      /  ________ /           /(      //_ \     _/____( _  // 
+   _(    \     \__\      //   _       /    _      )_\____        /  /______ ___
+   \   /__\        \     /    /      //    /          _ /       /___       \\ /
+  /   /_\      __\  \   /_\  ,_______/    __      /_  \/    _  /   /        \\
+ /\            \     \_    \_    \_       )/       /       /  /  \/         /
+/\ \____________\    )/    _/     /______ /      _/_______/  _\           _/
+\ \/____________/\___     _)\____/_______/_______)_______/________________)
+ \/____________/\/__(____/ \/___/_______/______ /_______/________________/dS!
+    _          \/__/___ / \/___/       /_______/       /________________/diP.
+- --\//-/--/----- (____/ ----------------------------------------------------
+
+               b  y  p  /\  s  s   p  r  e  s  e  n  t  s  . . .
+
+
+l u m i n o s i t y
+a 64kb intro for
+deadline 2024
+
+--
+
+rtz   - 3d scenes, direction and music
+supah - real-time synth/tracker code and animations
+warp  - shaders, rendering and intro code
+
+Thanks to Erwin Orb for mastering and feedback.
+(https://www.youtube.com/@erwinorb)
+
+--
+
+Requires WebGPU in a newer version of Chrome to run. Some beefy GPU is also not
+a bad idea. Be sure to start your Chrome with '--allow-file-access-from-files'.
+Will take some time to load, so be patient. Binaries with different resolutions
+are included in the archive, please choose your flavour.
+
+--
+
+We've created and used a couple of tools while making this intro. If you are
+interested in beta testing our new browser based tracker/synth, please shoot us a 
+mail. Will release the source for this 64kb some time soon (TM) if you want to 
+have a look.
+
+https://github.com/mgnauck/wgslminify
+https://github.com/mgnauck/js-payload-compress
+
+Feel free to contact us at gnauckm >> at gmail com (warp).
+
+--
+
+Special thanks to our families for all the support and patience - we love you!
+
+--
+
+Greetings to our dear friends:
+
+0b5vr
+ASD
+Black Maiden
+Calodox
+Cocoon
+Conspiracy
+Deadline orga team
+Excess
+Fairlight
+Farbrausch <3
+Haujobb
+Holon
+Inque
+Kolor
+LJ
+Logicoma
+Loonies
+Madwizards
+mikucom
+mfx
+Nuance
+Prismbeings
+Replay
+Rootkids
+Still
+Spcaeigs
+Suburban
+
+(See you)
