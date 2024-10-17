@@ -1,13 +1,7 @@
 /obj
 /output
-/scenes
-/tunes
 *.swp
 *.wasm
 *.map
 main
-src/scene_data.h
-src/audio
-src/base
-src/project
 .DS_Store
