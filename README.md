@@ -15,7 +15,7 @@ Please refer to the contained infofile (bypass-luminosity.txt) for more informat
 
 ## Run info
 
-You will need a WebGPU-capable browser, like Chromium/Chrome or Edge, that supports indirect compute dispatches (Firefox currently does not). Please use the `--allow-file-access-from-files` option for Chrome or start a local webserver (`python3 -m http.server`) in the intro directory to run. Linux users might try their luck with `google-chrome-stable --enable-unsafe-webgpu --enable-features=Vulkan`.
+You will need a WebGPU-capable browser, like Chromium/Chrome or Edge, that supports indirect compute dispatches. Please use the `--allow-file-access-from-files` option for Chrome or start a local webserver (`python3 -m http.server`) in the intro directory to run. Linux users might try their luck with `google-chrome-stable --enable-unsafe-webgpu --enable-features=Vulkan`. (To make it run in Firefox Nightly, a couple of modifications to the shader code are required, which are not contained in this repository.)
 
 ## Build info
 
