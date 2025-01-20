@@ -13,6 +13,14 @@ Thanks to Erwin Orb for mastering and feedback.
 
 Please refer to the contained infofile (bypass-luminosity.txt) for more information.
 
+## Run
+
+- Binaries: https://unik.de/download/bypass-luminosity.zip
+- Online: https://unik.de/online/luminosity/
+- Converged recording of the intro: https://www.youtube.com/watch?v=KrE181wamdo
+- Live recording: https://www.youtube.com/watch?v=r5-l9bODF0c&t=1594s
+- Discussion: https://www.pouet.net/prod.php?which=98327
+
 ## Run info
 
 You will need a WebGPU-capable browser, like Chromium/Chrome or Edge, that supports indirect compute dispatches. Please use the `--allow-file-access-from-files` option for Chrome or start a local webserver (`python3 -m http.server`) in the intro directory to run. Linux users might try their luck with `google-chrome-stable --enable-unsafe-webgpu --enable-features=Vulkan`. (To make it run in Firefox Nightly, a couple of modifications to the shader code are required, which are not contained in this repository.)
